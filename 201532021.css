@@ -1,5 +1,17 @@
-label
-{background-color: #ffb3b3;
-color: #ffffff
-
+.jumbotron{background-color: #ffe6ff;
 }
+
+
+p{font-family: Angelina;
+font-size: 15px;}
+
+h3{font-family: Papyrus;
+font-size: 30px;}
+
+li{font-size: 20px;}
+
+.carousel-inner{width: 460; height: 345}
+
+h1{font-family: Elephant;}
+
+
